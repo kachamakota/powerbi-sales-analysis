@@ -21,7 +21,7 @@ Main fields used:
 
 ## Status
 
-Completed.
+Completed
 
 ---
 
